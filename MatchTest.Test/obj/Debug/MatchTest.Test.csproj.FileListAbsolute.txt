@@ -1,0 +1,7 @@
+C:\Users\L30807\Desktop\MatchTest\MatchTest.Test\obj\Debug\MatchTest.Test.csprojResolveAssemblyReference.cache
+C:\Users\L30807\Desktop\MatchTest\MatchTest.Test\bin\Debug\MatchTest.Test.dll
+C:\Users\L30807\Desktop\MatchTest\MatchTest.Test\bin\Debug\MatchTest.Test.pdb
+C:\Users\L30807\Desktop\MatchTest\MatchTest.Test\bin\Debug\MatchTest.exe
+C:\Users\L30807\Desktop\MatchTest\MatchTest.Test\bin\Debug\MatchTest.pdb
+C:\Users\L30807\Desktop\MatchTest\MatchTest.Test\obj\Debug\MatchTest.Test.dll
+C:\Users\L30807\Desktop\MatchTest\MatchTest.Test\obj\Debug\MatchTest.Test.pdb
